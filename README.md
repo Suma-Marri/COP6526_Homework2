@@ -1,12 +1,14 @@
 # COP6526 Homework 2
 
-For this assignment, I used Google Colab to run my assignments. 
-
-Question 1 - 
-Question 2 - 
-Question 3 - 
+For this assignment, I used Google Colab to run my assignments.
 
 
+Files: 
+- Question 1: COP6526_Homework2_Q1.ipynb
+- Question 2: COP6526_Homework2_Q2.ipynb
+- Question 3: COP6526_Homework2_Q3.ipynb
+
+Assignment:
 1. https://colab.research.google.com/drive/1Tu7xeYM0qBB-RkqLSnYGrIyzb3q7bYo1?usp=sharingLinks to an external site. (This question is based on a colab assignment of Stanford Univ CS246 ). (15 points)
 
 2. (1) Design a PySpark program to do logistic regression using "LogisticRegression" in "pyspark.ml.classification", with the dataset data_logistic_regression.csvDownload data_logistic_regression.csv. (7 points)

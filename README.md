@@ -9,9 +9,9 @@ Files:
 - Question 3: COP6526_Homework2_Q3.ipynb
 
 Assignment:
-1. https://colab.research.google.com/drive/1Tu7xeYM0qBB-RkqLSnYGrIyzb3q7bYo1?usp=sharingLinks to an external site. (This question is based on a colab assignment of Stanford Univ CS246 ). (15 points)
+1. https://colab.research.google.com/drive/1Tu7xeYM0qBB-RkqLSnYGrIyzb3q7bYo1?usp=sharing (This question is based on a colab assignment of Stanford Univ CS246 ). (15 points)
 
-2. (1) Design a PySpark program to do logistic regression using "LogisticRegression" in "pyspark.ml.classification", with the dataset data_logistic_regression.csvDownload data_logistic_regression.csv. (7 points)
+2. (1) Design a PySpark program to do logistic regression using "LogisticRegression" in "pyspark.ml.classification", with the dataset data_logistic_regression.csv. (7 points)
 
      (2) Please draw a ROC curse using "matplotlib.pyplot". Its x-axis is "False Positive Rate", and y-axis is  "True Positive Rate". (3 points)
 
